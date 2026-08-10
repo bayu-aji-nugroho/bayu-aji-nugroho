@@ -1,21 +1,13 @@
-- 👋 Hi, I’m @bayu-aji-nugroho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript and c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+Hi, perkenalkan nama saya Bayu Aji Nugroho.
+
+### Core Tech Stacks
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,py,java,kotlin,latex,html,css,firebase)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,arduino,obsidian)](https://skillicons.dev)
 
 
-<p align="center">
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="Tailwind CSS" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="React" />
-</p>
 
