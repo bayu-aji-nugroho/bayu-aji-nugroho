@@ -6,11 +6,16 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Bayu" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="Tailwind CSS" />
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="React" />
 </p>
-<!---
-bayu-aji-nugroho/bayu-aji-nugroho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
