@@ -1,4 +1,4 @@
-Hi, perkenalkan nama saya Bayu Aji Nugroho.
+Hi.
 
 ### Core Tech Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,py,java,kotlin,dart,html,css)](https://skillicons.dev)
